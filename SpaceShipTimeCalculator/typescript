@@ -1,0 +1,358 @@
+Script started on 2024-07-10 16:35:48-0500
+groups: cannot find name for group ID 762800513
+]0;aashishg@turing: ~/project6[01;32maashishg@turing[00m:[01;34m~/project6[00m$ ./hw6.exe
+defaultSpaceship
+Name: NoName
+Color: NoColor
+Crew Size: 0 crew members.
+Impulse Speed: 0 km/sec.
+Shields Up: FALSE
+
+mySpaceship
+Name: Varmps
+Color: Purple
+Crew Size: 10 crew members.
+Impulse Speed: 100000 km/sec.
+Shields Up: FALSE
+
+copySpaceship
+Name: Varmps
+Color: Purple
+Crew Size: 10 crew members.
+Impulse Speed: 100000 km/sec.
+Shields Up: FALSE
+
+OPTIONS:
+0 - Quit
+1 - Print my Spaceship's info
+2 - Give my Spaceship a new name
+3 - Give my Spaceship a new color
+4 - Give my Spaceship a new crew size
+5 - Give my Spaceship a new impulse speed
+6 - Set shields up
+7 - Set shields down
+8 - Prepare for orbit
+9 - End the orbit
+10 - Get travel time (in days)
+
+Enter your choice: 1 2
+
+Enter a fabulous new name for mySpaceship: Interstellar
+
+OPTIONS:
+0 - Quit
+1 - Print my Spaceship's info
+2 - Give my Spaceship a new name
+3 - Give my Spaceship a new color
+4 - Give my Spaceship a new crew size
+5 - Give my Spaceship a new impulse speed
+6 - Set shields up
+7 - Set shields down
+8 - Prepare for orbit
+9 - End the orbit
+10 - Get travel time (in days)
+
+Enter your choice: 2 3
+
+Enter the extravagant new color for mySpaceship: Magenta
+
+OPTIONS:
+0 - Quit
+1 - Print my Spaceship's info
+2 - Give my Spaceship a new name
+3 - Give my Spaceship a new color
+4 - Give my Spaceship a new crew size
+5 - Give my Spaceship a new impulse speed
+6 - Set shields up
+7 - Set shields down
+8 - Prepare for orbit
+9 - End the orbit
+10 - Get travel time (in days)
+
+Enter your choice: 4
+
+What will be the new crew size for the spaceship (between 0 and 1000000)? 10000
+
+OPTIONS:
+0 - Quit
+1 - Print my Spaceship's info
+2 - Give my Spaceship a new name
+3 - Give my Spaceship a new color
+4 - Give my Spaceship a new crew size
+5 - Give my Spaceship a new impulse speed
+6 - Set shields up
+7 - Set shields down
+8 - Prepare for orbit
+9 - End the orbit
+10 - Get travel time (in days)
+
+Enter your choice: 1
+
+Name: Interstellar
+Color: Magenta
+Crew Size: 10000 crew members.
+Impulse Speed: 100000 km/sec.
+Shields Up: FALSE
+
+OPTIONS:
+0 - Quit
+1 - Print my Spaceship's info
+2 - Give my Spaceship a new name
+3 - Give my Spaceship a new color
+4 - Give my Spaceship a new crew size
+5 - Give my Spaceship a new impulse speed
+6 - Set shields up
+7 - Set shields down
+8 - Prepare for orbit
+9 - End the orbit
+10 - Get travel time (in days)
+
+Enter your choice: 5
+
+What will be the new impulse speed of the spaceship (between 0 and 2000000)? 1500000
+
+OPTIONS:
+0 - Quit
+1 - Print my Spaceship's info
+2 - Give my Spaceship a new name
+3 - Give my Spaceship a new color
+4 - Give my Spaceship a new crew size
+5 - Give my Spaceship a new impulse speed
+6 - Set shields up
+7 - Set shields down
+8 - Prepare for orbit
+9 - End the orbit
+10 - Get travel time (in days)
+
+Enter your choice: 10
+
+How far are you going, in million kilometers (0 to 2500000)? 2500000
+Travel time: 64.3004 days.
+
+OPTIONS:
+0 - Quit
+1 - Print my Spaceship's info
+2 - Give my Spaceship a new name
+3 - Give my Spaceship a new color
+4 - Give my Spaceship a new crew size
+5 - Give my Spaceship a new impulse speed
+6 - Set shields up
+7 - Set shields down
+8 - Prepare for orbit
+9 - End the orbit
+10 - Get travel time (in days)
+
+Enter your choice: 1
+
+Name: Interstellar
+Color: Magenta
+Crew Size: 10000 crew members.
+Impulse Speed: 1500000 km/sec.
+Shields Up: FALSE
+
+OPTIONS:
+0 - Quit
+1 - Print my Spaceship's info
+2 - Give my Spaceship a new name
+3 - Give my Spaceship a new color
+4 - Give my Spaceship a new crew size
+5 - Give my Spaceship a new impulse speed
+6 - Set shields up
+7 - Set shields down
+8 - Prepare for orbit
+9 - End the orbit
+10 - Get travel time (in days)
+
+Enter your choice: 6
+
+
+OPTIONS:
+0 - Quit
+1 - Print my Spaceship's info
+2 - Give my Spaceship a new name
+3 - Give my Spaceship a new color
+4 - Give my Spaceship a new crew size
+5 - Give my Spaceship a new impulse speed
+6 - Set shields up
+7 - Set shields down
+8 - Prepare for orbit
+9 - End the orbit
+10 - Get travel time (in days)
+
+Enter your choice: 1
+
+Name: Interstellar
+Color: Magenta
+Crew Size: 10000 crew members.
+Impulse Speed: 1500000 km/sec.
+Shields Up: TRUE
+
+OPTIONS:
+0 - Quit
+1 - Print my Spaceship's info
+2 - Give my Spaceship a new name
+3 - Give my Spaceship a new color
+4 - Give my Spaceship a new crew size
+5 - Give my Spaceship a new impulse speed
+6 - Set shields up
+7 - Set shields down
+8 - Prepare for orbit
+9 - End the orbit
+10 - Get travel time (in days)
+
+Enter your choice: 7
+
+
+OPTIONS:
+0 - Quit
+1 - Print my Spaceship's info
+2 - Give my Spaceship a new name
+3 - Give my Spaceship a new color
+4 - Give my Spaceship a new crew size
+5 - Give my Spaceship a new impulse speed
+6 - Set shields up
+7 - Set shields down
+8 - Prepare for orbit
+9 - End the orbit
+10 - Get travel time (in days)
+
+Enter your choice: 1
+
+Name: Interstellar
+Color: Magenta
+Crew Size: 10000 crew members.
+Impulse Speed: 1500000 km/sec.
+Shields Up: FALSE
+
+OPTIONS:
+0 - Quit
+1 - Print my Spaceship's info
+2 - Give my Spaceship a new name
+3 - Give my Spaceship a new color
+4 - Give my Spaceship a new crew size
+5 - Give my Spaceship a new impulse speed
+6 - Set shields up
+7 - Set shields down
+8 - Prepare for orbit
+9 - End the orbit
+10 - Get travel time (in days)
+
+Enter your choice: 8
+
+Preparing for orbit.....are you ready?
+
+OPTIONS:
+0 - Quit
+1 - Print my Spaceship's info
+2 - Give my Spaceship a new name
+3 - Give my Spaceship a new color
+4 - Give my Spaceship a new crew size
+5 - Give my Spaceship a new impulse speed
+6 - Set shields up
+7 - Set shields down
+8 - Prepare for orbit
+9 - End the orbit
+10 - Get travel time (in days)
+
+Enter your choice: 1
+
+Name: Interstellar
+Color: Magenta
+Crew Size: 10000 crew members.
+Impulse Speed: 1500000 km/sec.
+Shields Up: TRUE
+
+OPTIONS:
+0 - Quit
+1 - Print my Spaceship's info
+2 - Give my Spaceship a new name
+3 - Give my Spaceship a new color
+4 - Give my Spaceship a new crew size
+5 - Give my Spaceship a new impulse speed
+6 - Set shields up
+7 - Set shields down
+8 - Prepare for orbit
+9 - End the orbit
+10 - Get travel time (in days)
+
+Enter your choice: 10
+
+How far are you going, in million kilometers (0 to 2500000)? 1500000
+Travel time: 11.5741 days.
+
+OPTIONS:
+0 - Quit
+1 - Print my Spaceship's info
+2 - Give my Spaceship a new name
+3 - Give my Spaceship a new color
+4 - Give my Spaceship a new crew size
+5 - Give my Spaceship a new impulse speed
+6 - Set shields up
+7 - Set shields down
+8 - Prepare for orbit
+9 - End the orbit
+10 - Get travel time (in days)
+
+Enter your choice: 9
+
+Ending orbit.
+
+OPTIONS:
+0 - Quit
+1 - Print my Spaceship's info
+2 - Give my Spaceship a new name
+3 - Give my Spaceship a new color
+4 - Give my Spaceship a new crew size
+5 - Give my Spaceship a new impulse speed
+6 - Set shields up
+7 - Set shields down
+8 - Prepare for orbit
+9 - End the orbit
+10 - Get travel time (in days)
+
+Enter your choice: 1
+
+Name: Interstellar
+Color: Magenta
+Crew Size: 10000 crew members.
+Impulse Speed: 1500000 km/sec.
+Shields Up: FALSE
+
+OPTIONS:
+0 - Quit
+1 - Print my Spaceship's info
+2 - Give my Spaceship a new name
+3 - Give my Spaceship a new color
+4 - Give my Spaceship a new crew size
+5 - Give my Spaceship a new impulse speed
+6 - Set shields up
+7 - Set shields down
+8 - Prepare for orbit
+9 - End the orbit
+10 - Get travel time (in days)
+
+Enter your choice: 10
+
+How far are you going, in million kilometers (0 to 2500000)? 1500000
+Travel time: 38.5802 days.
+
+OPTIONS:
+0 - Quit
+1 - Print my Spaceship's info
+2 - Give my Spaceship a new name
+3 - Give my Spaceship a new color
+4 - Give my Spaceship a new crew size
+5 - Give my Spaceship a new impulse speed
+6 - Set shields up
+7 - Set shields down
+8 - Prepare for orbit
+9 - End the orbit
+10 - Get travel time (in days)
+
+Enter your choice: 0
+
+Exiting program.
+]0;aashishg@turing: ~/project6[01;32maashishg@turing[00m:[01;34m~/project6[00m$ exit
+exit
+
+Script done on 2024-07-10 16:39:41-0500
