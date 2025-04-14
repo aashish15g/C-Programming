@@ -1,0 +1,555 @@
+Script started on 2024-07-16 18:39:26-0500
+groups: cannot find name for group ID 762800513
+]0;aashishg@turing: ~/project7[01;32maashishg@turing[00m:[01;34m~/project7[00m$ ./hw7.exe
+
+Welcome to the English-Spanish Translation Dictionary
+Choose one of the following:
+      0 Load the dictionary by reading from a file
+      1 Translate a word from English to Spanish
+      2 Translate a word from Spanish to English
+      3 Add an English-Spanish pair to the dictionary
+      4 Remove an English-Spanish pair from the dictionary
+      5 Print the contents of the dictionary
+      6 Quit the program
+
+Enter choice: 5
+DICTIONARY IS EMPTY!
+
+Welcome to the English-Spanish Translation Dictionary
+Choose one of the following:
+      0 Load the dictionary by reading from a file
+      1 Translate a word from English to Spanish
+      2 Translate a word from Spanish to English
+      3 Add an English-Spanish pair to the dictionary
+      4 Remove an English-Spanish pair from the dictionary
+      5 Print the contents of the dictionary
+      6 Quit the program
+
+Enter choice: 0
+The dictionary was successfully loaded.
+
+Welcome to the English-Spanish Translation Dictionary
+Choose one of the following:
+      0 Load the dictionary by reading from a file
+      1 Translate a word from English to Spanish
+      2 Translate a word from Spanish to English
+      3 Add an English-Spanish pair to the dictionary
+      4 Remove an English-Spanish pair from the dictionary
+      5 Print the contents of the dictionary
+      6 Quit the program
+
+Enter choice: 1
+Enter an English word for translation: wolf
+The English word "wolf" is "el_lobo" in Spanish.
+
+Welcome to the English-Spanish Translation Dictionary
+Choose one of the following:
+      0 Load the dictionary by reading from a file
+      1 Translate a word from English to Spanish
+      2 Translate a word from Spanish to English
+      3 Add an English-Spanish pair to the dictionary
+      4 Remove an English-Spanish pair from the dictionary
+      5 Print the contents of the dictionary
+      6 Quit the program
+
+Enter choice: 5
+0. English:animals        Spanish:los_animales
+1. English:ant            Spanish:la_hormiga
+2. English:antler         Spanish:el_asta
+3. English:ape            Spanish:el_mono
+4. English:aquarium       Spanish:el_acuario
+5. English:barn           Spanish:el_establo
+6. English:beak           Spanish:el_pico
+7. English:bear           Spanish:el_oso
+8. English:beaver         Spanish:el_castor
+9. English:bee            Spanish:la_abeja
+10. English:beetle         Spanish:el_escarabajo
+11. English:blackbird      Spanish:el_mirlo
+12. English:bug            Spanish:el_insecto
+13. English:bunny          Spanish:el_conejito
+14. English:butterfly      Spanish:la_mariposa
+15. English:bull           Spanish:el_toro
+16. English:cage           Spanish:la_jaula
+17. English:camel          Spanish:el_camello
+18. English:canary         Spanish:el_canario
+19. English:cat            Spanish:el_gato
+20. English:caterpillar    Spanish:la_oruga
+21. English:chick          Spanish:el_pollito
+22. English:chicken        Spanish:el_pollo
+23. English:cicada         Spanish:la_cigarra
+24. English:claw           Spanish:la_zarpa
+25. English:cocoon         Spanish:el_capullo
+26. English:cow            Spanish:la_vaca
+27. English:coyote         Spanish:el_coyote
+28. English:crab           Spanish:el_cangrejo
+29. English:crane          Spanish:la_grulla
+30. English:crocodile      Spanish:el_cocodrilo
+31. English:crow           Spanish:el_cuervo
+32. English:deer           Spanish:el_venado
+33. English:dinosaur       Spanish:el_dinosaurio
+34. English:dog            Spanish:el_perro
+35. English:donkey         Spanish:el_burro
+36. English:dove           Spanish:la_paloma
+37. English:duck           Spanish:el_pato
+38. English:duckling       Spanish:el_patito
+39. English:eel            Spanish:la_anguila
+40. English:egg            Spanish:el_huevo
+41. English:elephant       Spanish:el_elefante
+42. English:elk            Spanish:el_alce
+43. English:feather        Spanish:la_pluma
+44. English:fin            Spanish:la_aleta
+45. English:fish           Spanish:el_pez
+46. English:flamingo       Spanish:el_flamenco
+47. English:fly            Spanish:la_mosca
+48. English:fox            Spanish:el_zorro
+49. English:frog           Spanish:la_rana
+50. English:gazelle        Spanish:la_gacela
+51. English:giraffe        Spanish:la_jirafa
+52. English:goat           Spanish:la_cabra
+53. English:goose          Spanish:el_ganso
+54. English:gorilla        Spanish:el_gorila
+55. English:grasshopper    Spanish:el_saltamontes
+56. English:hamster        Spanish:la_marmota
+57. English:hedgehog       Spanish:el_erizo
+58. English:hen            Spanish:la_gallina
+59. English:hive           Spanish:la_colmena
+60. English:hog            Spanish:el_cerdo
+61. English:horse          Spanish:el_caballo
+62. English:hyena          Spanish:la_hiena
+63. English:hoof           Spanish:el_casco
+64. English:insect         Spanish:el_insecto
+65. English:jaguar         Spanish:el_jaguar
+66. English:jay            Spanish:el_arrendajo
+67. English:jellyfish      Spanish:la_medusa
+68. English:kangaroo       Spanish:el_canguro
+69. English:kitten         Spanish:el_gatito
+70. English:koala          Spanish:el_koala
+71. English:ladybug        Spanish:la_mariquita
+72. English:lamb           Spanish:el_cordero
+73. English:lizard         Spanish:la_lagartija
+74. English:llama          Spanish:la_llama
+75. English:lobster        Spanish:la_langosta
+76. English:macaw          Spanish:el_guacamayo
+77. English:mammoth        Spanish:el_mamut
+78. English:marsupial      Spanish:el_marsupial
+79. English:mermaid        Spanish:la_sirena
+80. English:mole           Spanish:el_topo
+81. English:monkey         Spanish:el_mono
+82. English:monster        Spanish:el_monstruo
+83. English:moose          Spanish:el_alce
+84. English:mosquito       Spanish:el_mosquito
+85. English:moth           Spanish:la_polilla
+86. English:mutt           Spanish:el_bobo
+87. English:octopus        Spanish:el_pulpo
+88. English:ostrich        Spanish:el_avestruz
+89. English:otter          Spanish:la_nutria
+90. English:parrot         Spanish:el_loro
+91. English:pig            Spanish:el_cerdo
+92. English:pigeon         Spanish:la_paloma
+93. English:puppy          Spanish:el_cachorro
+94. English:quail          Spanish:la_codorniz
+95. English:quetzal        Spanish:el_quetzal
+96. English:rabbit         Spanish:el_conejo
+97. English:raccoon        Spanish:el_mapache
+98. English:rat            Spanish:la_rata
+99. English:reindeer       Spanish:el_reno
+100. English:rhinoceros     Spanish:el_rinoceronte
+101. English:roach          Spanish:la_cucaracha
+102. English:roadrunner     Spanish:el_correcamino
+103. English:robin          Spanish:el_petirrojo
+104. English:rooster        Spanish:el_gallo
+105. English:seal           Spanish:la_foca
+106. English:sheep          Spanish:la_oveja
+107. English:shrimp         Spanish:el_camaron
+108. English:snail          Spanish:el_caracol
+109. English:snake          Spanish:la_culebra
+110. English:squid          Spanish:el_calamar
+111. English:sponge         Spanish:la_esponja
+112. English:squirrel       Spanish:la_ardilla
+113. English:stable         Spanish:el_establo
+114. English:swan           Spanish:el_cisne
+115. English:tadpole        Spanish:el_renacuajo
+116. English:tiger          Spanish:el_tigre
+117. English:toad           Spanish:el_sapo
+118. English:toucan         Spanish:el_toucan
+119. English:turtle         Spanish:la_tortuga
+120. English:unicorn        Spanish:el_unicornio
+121. English:vulture        Spanish:el_buitre
+122. English:walrus         Spanish:el_walrus
+123. English:wasp           Spanish:la_avispa
+124. English:weasel         Spanish:la_comadreja
+125. English:whale          Spanish:la_ballena
+126. English:wolf           Spanish:el_lobo
+127. English:worm           Spanish:el_gusano
+128. English:zebra          Spanish:el_cebra
+129. English:Bicycle        Spanish:la_bicicleta
+130. English:bicycle        Spanish:la_bicicleta
+
+Welcome to the English-Spanish Translation Dictionary
+Choose one of the following:
+      0 Load the dictionary by reading from a file
+      1 Translate a word from English to Spanish
+      2 Translate a word from Spanish to English
+      3 Add an English-Spanish pair to the dictionary
+      4 Remove an English-Spanish pair from the dictionary
+      5 Print the contents of the dictionary
+      6 Quit the program
+
+Enter choice: 7
+Sorry, that was not a valid input brother. Please Try again: 8
+Sorry, that was not a valid input brother. Please Try again: 1
+Enter an English word for translation: car
+car is not in our dictionary.
+
+Welcome to the English-Spanish Translation Dictionary
+Choose one of the following:
+      0 Load the dictionary by reading from a file
+      1 Translate a word from English to Spanish
+      2 Translate a word from Spanish to English
+      3 Add an English-Spanish pair to the dictionary
+      4 Remove an English-Spanish pair from the dictionary
+      5 Print the contents of the dictionary
+      6 Quit the program
+
+Enter choice: 2
+Enter an Spanish word for translation: el_camaron
+The Spanish word "el_camaron" is "shrimp" in English.
+
+Welcome to the English-Spanish Translation Dictionary
+Choose one of the following:
+      0 Load the dictionary by reading from a file
+      1 Translate a word from English to Spanish
+      2 Translate a word from Spanish to English
+      3 Add an English-Spanish pair to the dictionary
+      4 Remove an English-Spanish pair from the dictionary
+      5 Print the contents of the dictionary
+      6 Quit the program
+
+Enter choice: 2
+Enter an Spanish word for translation: el_house
+el_house is not in our dictionary.
+
+Welcome to the English-Spanish Translation Dictionary
+Choose one of the following:
+      0 Load the dictionary by reading from a file
+      1 Translate a word from English to Spanish
+      2 Translate a word from Spanish to English
+      3 Add an English-Spanish pair to the dictionary
+      4 Remove an English-Spanish pair from the dictionary
+      5 Print the contents of the dictionary
+      6 Quit the program
+
+Enter choice: 3
+Enter an English word: motorcycle
+Enter a Spanish translation of the English word above: la_motocycl   icleta
+The English-Spanish pair was added to the dictionary!
+
+Welcome to the English-Spanish Translation Dictionary
+Choose one of the following:
+      0 Load the dictionary by reading from a file
+      1 Translate a word from English to Spanish
+      2 Translate a word from Spanish to English
+      3 Add an English-Spanish pair to the dictionary
+      4 Remove an English-Spanish pair from the dictionary
+      5 Print the contents of the dictionary
+      6 Quit the program
+
+Enter choice: 5
+0. English:animals        Spanish:los_animales
+1. English:ant            Spanish:la_hormiga
+2. English:antler         Spanish:el_asta
+3. English:ape            Spanish:el_mono
+4. English:aquarium       Spanish:el_acuario
+5. English:barn           Spanish:el_establo
+6. English:beak           Spanish:el_pico
+7. English:bear           Spanish:el_oso
+8. English:beaver         Spanish:el_castor
+9. English:bee            Spanish:la_abeja
+10. English:beetle         Spanish:el_escarabajo
+11. English:blackbird      Spanish:el_mirlo
+12. English:bug            Spanish:el_insecto
+13. English:bunny          Spanish:el_conejito
+14. English:butterfly      Spanish:la_mariposa
+15. English:bull           Spanish:el_toro
+16. English:cage           Spanish:la_jaula
+17. English:camel          Spanish:el_camello
+18. English:canary         Spanish:el_canario
+19. English:cat            Spanish:el_gato
+20. English:caterpillar    Spanish:la_oruga
+21. English:chick          Spanish:el_pollito
+22. English:chicken        Spanish:el_pollo
+23. English:cicada         Spanish:la_cigarra
+24. English:claw           Spanish:la_zarpa
+25. English:cocoon         Spanish:el_capullo
+26. English:cow            Spanish:la_vaca
+27. English:coyote         Spanish:el_coyote
+28. English:crab           Spanish:el_cangrejo
+29. English:crane          Spanish:la_grulla
+30. English:crocodile      Spanish:el_cocodrilo
+31. English:crow           Spanish:el_cuervo
+32. English:deer           Spanish:el_venado
+33. English:dinosaur       Spanish:el_dinosaurio
+34. English:dog            Spanish:el_perro
+35. English:donkey         Spanish:el_burro
+36. English:dove           Spanish:la_paloma
+37. English:duck           Spanish:el_pato
+38. English:duckling       Spanish:el_patito
+39. English:eel            Spanish:la_anguila
+40. English:egg            Spanish:el_huevo
+41. English:elephant       Spanish:el_elefante
+42. English:elk            Spanish:el_alce
+43. English:feather        Spanish:la_pluma
+44. English:fin            Spanish:la_aleta
+45. English:fish           Spanish:el_pez
+46. English:flamingo       Spanish:el_flamenco
+47. English:fly            Spanish:la_mosca
+48. English:fox            Spanish:el_zorro
+49. English:frog           Spanish:la_rana
+50. English:gazelle        Spanish:la_gacela
+51. English:giraffe        Spanish:la_jirafa
+52. English:goat           Spanish:la_cabra
+53. English:goose          Spanish:el_ganso
+54. English:gorilla        Spanish:el_gorila
+55. English:grasshopper    Spanish:el_saltamontes
+56. English:hamster        Spanish:la_marmota
+57. English:hedgehog       Spanish:el_erizo
+58. English:hen            Spanish:la_gallina
+59. English:hive           Spanish:la_colmena
+60. English:hog            Spanish:el_cerdo
+61. English:horse          Spanish:el_caballo
+62. English:hyena          Spanish:la_hiena
+63. English:hoof           Spanish:el_casco
+64. English:insect         Spanish:el_insecto
+65. English:jaguar         Spanish:el_jaguar
+66. English:jay            Spanish:el_arrendajo
+67. English:jellyfish      Spanish:la_medusa
+68. English:kangaroo       Spanish:el_canguro
+69. English:kitten         Spanish:el_gatito
+70. English:koala          Spanish:el_koala
+71. English:ladybug        Spanish:la_mariquita
+72. English:lamb           Spanish:el_cordero
+73. English:lizard         Spanish:la_lagartija
+74. English:llama          Spanish:la_llama
+75. English:lobster        Spanish:la_langosta
+76. English:macaw          Spanish:el_guacamayo
+77. English:mammoth        Spanish:el_mamut
+78. English:marsupial      Spanish:el_marsupial
+79. English:mermaid        Spanish:la_sirena
+80. English:mole           Spanish:el_topo
+81. English:monkey         Spanish:el_mono
+82. English:monster        Spanish:el_monstruo
+83. English:moose          Spanish:el_alce
+84. English:mosquito       Spanish:el_mosquito
+85. English:moth           Spanish:la_polilla
+86. English:mutt           Spanish:el_bobo
+87. English:octopus        Spanish:el_pulpo
+88. English:ostrich        Spanish:el_avestruz
+89. English:otter          Spanish:la_nutria
+90. English:parrot         Spanish:el_loro
+91. English:pig            Spanish:el_cerdo
+92. English:pigeon         Spanish:la_paloma
+93. English:puppy          Spanish:el_cachorro
+94. English:quail          Spanish:la_codorniz
+95. English:quetzal        Spanish:el_quetzal
+96. English:rabbit         Spanish:el_conejo
+97. English:raccoon        Spanish:el_mapache
+98. English:rat            Spanish:la_rata
+99. English:reindeer       Spanish:el_reno
+100. English:rhinoceros     Spanish:el_rinoceronte
+101. English:roach          Spanish:la_cucaracha
+102. English:roadrunner     Spanish:el_correcamino
+103. English:robin          Spanish:el_petirrojo
+104. English:rooster        Spanish:el_gallo
+105. English:seal           Spanish:la_foca
+106. English:sheep          Spanish:la_oveja
+107. English:shrimp         Spanish:el_camaron
+108. English:snail          Spanish:el_caracol
+109. English:snake          Spanish:la_culebra
+110. English:squid          Spanish:el_calamar
+111. English:sponge         Spanish:la_esponja
+112. English:squirrel       Spanish:la_ardilla
+113. English:stable         Spanish:el_establo
+114. English:swan           Spanish:el_cisne
+115. English:tadpole        Spanish:el_renacuajo
+116. English:tiger          Spanish:el_tigre
+117. English:toad           Spanish:el_sapo
+118. English:toucan         Spanish:el_toucan
+119. English:turtle         Spanish:la_tortuga
+120. English:unicorn        Spanish:el_unicornio
+121. English:vulture        Spanish:el_buitre
+122. English:walrus         Spanish:el_walrus
+123. English:wasp           Spanish:la_avispa
+124. English:weasel         Spanish:la_comadreja
+125. English:whale          Spanish:la_ballena
+126. English:wolf           Spanish:el_lobo
+127. English:worm           Spanish:el_gusano
+128. English:zebra          Spanish:el_cebra
+129. English:Bicycle        Spanish:la_bicicleta
+130. English:bicycle        Spanish:la_bicicleta
+131. English:motorcycle     Spanish:la_motocicleta
+
+Welcome to the English-Spanish Translation Dictionary
+Choose one of the following:
+      0 Load the dictionary by reading from a file
+      1 Translate a word from English to Spanish
+      2 Translate a word from Spanish to English
+      3 Add an English-Spanish pair to the dictionary
+      4 Remove an English-Spanish pair from the dictionary
+      5 Print the contents of the dictionary
+      6 Quit the program
+
+Enter choice: 4
+Enter the index of the pair to remove: 129
+removePair
+The English-Spanish pair was removed from the dictionary!
+
+Welcome to the English-Spanish Translation Dictionary
+Choose one of the following:
+      0 Load the dictionary by reading from a file
+      1 Translate a word from English to Spanish
+      2 Translate a word from Spanish to English
+      3 Add an English-Spanish pair to the dictionary
+      4 Remove an English-Spanish pair from the dictionary
+      5 Print the contents of the dictionary
+      6 Quit the program
+
+Enter choice: 6
+Copy of the translation dictionary at time of exit:
+0. English:animals        Spanish:los_animales
+1. English:ant            Spanish:la_hormiga
+2. English:antler         Spanish:el_asta
+3. English:ape            Spanish:el_mono
+4. English:aquarium       Spanish:el_acuario
+5. English:barn           Spanish:el_establo
+6. English:beak           Spanish:el_pico
+7. English:bear           Spanish:el_oso
+8. English:beaver         Spanish:el_castor
+9. English:bee            Spanish:la_abeja
+10. English:beetle         Spanish:el_escarabajo
+11. English:blackbird      Spanish:el_mirlo
+12. English:bug            Spanish:el_insecto
+13. English:bunny          Spanish:el_conejito
+14. English:butterfly      Spanish:la_mariposa
+15. English:bull           Spanish:el_toro
+16. English:cage           Spanish:la_jaula
+17. English:camel          Spanish:el_camello
+18. English:canary         Spanish:el_canario
+19. English:cat            Spanish:el_gato
+20. English:caterpillar    Spanish:la_oruga
+21. English:chick          Spanish:el_pollito
+22. English:chicken        Spanish:el_pollo
+23. English:cicada         Spanish:la_cigarra
+24. English:claw           Spanish:la_zarpa
+25. English:cocoon         Spanish:el_capullo
+26. English:cow            Spanish:la_vaca
+27. English:coyote         Spanish:el_coyote
+28. English:crab           Spanish:el_cangrejo
+29. English:crane          Spanish:la_grulla
+30. English:crocodile      Spanish:el_cocodrilo
+31. English:crow           Spanish:el_cuervo
+32. English:deer           Spanish:el_venado
+33. English:dinosaur       Spanish:el_dinosaurio
+34. English:dog            Spanish:el_perro
+35. English:donkey         Spanish:el_burro
+36. English:dove           Spanish:la_paloma
+37. English:duck           Spanish:el_pato
+38. English:duckling       Spanish:el_patito
+39. English:eel            Spanish:la_anguila
+40. English:egg            Spanish:el_huevo
+41. English:elephant       Spanish:el_elefante
+42. English:elk            Spanish:el_alce
+43. English:feather        Spanish:la_pluma
+44. English:fin            Spanish:la_aleta
+45. English:fish           Spanish:el_pez
+46. English:flamingo       Spanish:el_flamenco
+47. English:fly            Spanish:la_mosca
+48. English:fox            Spanish:el_zorro
+49. English:frog           Spanish:la_rana
+50. English:gazelle        Spanish:la_gacela
+51. English:giraffe        Spanish:la_jirafa
+52. English:goat           Spanish:la_cabra
+53. English:goose          Spanish:el_ganso
+54. English:gorilla        Spanish:el_gorila
+55. English:grasshopper    Spanish:el_saltamontes
+56. English:hamster        Spanish:la_marmota
+57. English:hedgehog       Spanish:el_erizo
+58. English:hen            Spanish:la_gallina
+59. English:hive           Spanish:la_colmena
+60. English:hog            Spanish:el_cerdo
+61. English:horse          Spanish:el_caballo
+62. English:hyena          Spanish:la_hiena
+63. English:hoof           Spanish:el_casco
+64. English:insect         Spanish:el_insecto
+65. English:jaguar         Spanish:el_jaguar
+66. English:jay            Spanish:el_arrendajo
+67. English:jellyfish      Spanish:la_medusa
+68. English:kangaroo       Spanish:el_canguro
+69. English:kitten         Spanish:el_gatito
+70. English:koala          Spanish:el_koala
+71. English:ladybug        Spanish:la_mariquita
+72. English:lamb           Spanish:el_cordero
+73. English:lizard         Spanish:la_lagartija
+74. English:llama          Spanish:la_llama
+75. English:lobster        Spanish:la_langosta
+76. English:macaw          Spanish:el_guacamayo
+77. English:mammoth        Spanish:el_mamut
+78. English:marsupial      Spanish:el_marsupial
+79. English:mermaid        Spanish:la_sirena
+80. English:mole           Spanish:el_topo
+81. English:monkey         Spanish:el_mono
+82. English:monster        Spanish:el_monstruo
+83. English:moose          Spanish:el_alce
+84. English:mosquito       Spanish:el_mosquito
+85. English:moth           Spanish:la_polilla
+86. English:mutt           Spanish:el_bobo
+87. English:octopus        Spanish:el_pulpo
+88. English:ostrich        Spanish:el_avestruz
+89. English:otter          Spanish:la_nutria
+90. English:parrot         Spanish:el_loro
+91. English:pig            Spanish:el_cerdo
+92. English:pigeon         Spanish:la_paloma
+93. English:puppy          Spanish:el_cachorro
+94. English:quail          Spanish:la_codorniz
+95. English:quetzal        Spanish:el_quetzal
+96. English:rabbit         Spanish:el_conejo
+97. English:raccoon        Spanish:el_mapache
+98. English:rat            Spanish:la_rata
+99. English:reindeer       Spanish:el_reno
+100. English:rhinoceros     Spanish:el_rinoceronte
+101. English:roach          Spanish:la_cucaracha
+102. English:roadrunner     Spanish:el_correcamino
+103. English:robin          Spanish:el_petirrojo
+104. English:rooster        Spanish:el_gallo
+105. English:seal           Spanish:la_foca
+106. English:sheep          Spanish:la_oveja
+107. English:shrimp         Spanish:el_camaron
+108. English:snail          Spanish:el_caracol
+109. English:snake          Spanish:la_culebra
+110. English:squid          Spanish:el_calamar
+111. English:sponge         Spanish:la_esponja
+112. English:squirrel       Spanish:la_ardilla
+113. English:stable         Spanish:el_establo
+114. English:swan           Spanish:el_cisne
+115. English:tadpole        Spanish:el_renacuajo
+116. English:tiger          Spanish:el_tigre
+117. English:toad           Spanish:el_sapo
+118. English:toucan         Spanish:el_toucan
+119. English:turtle         Spanish:la_tortuga
+120. English:unicorn        Spanish:el_unicornio
+121. English:vulture        Spanish:el_buitre
+122. English:walrus         Spanish:el_walrus
+123. English:wasp           Spanish:la_avispa
+124. English:weasel         Spanish:la_comadreja
+125. English:whale          Spanish:la_ballena
+126. English:wolf           Spanish:el_lobo
+127. English:worm           Spanish:el_gusano
+128. English:zebra          Spanish:el_cebra
+129. English:Bicycle        Spanish:la_bicicleta
+130. English:bicycle        Spanish:la_bicicleta
+131. English:motorcycle     Spanish:la_motocicleta
+Destructor.
+Destructor.
+]0;aashishg@turing: ~/project7[01;32maashishg@turing[00m:[01;34m~/project7[00m$ exit
+exit
+
+Script done on 2024-07-16 18:41:44-0500
